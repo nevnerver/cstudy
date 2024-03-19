@@ -33,5 +33,85 @@
     <ClCompile Include="funcSutdy.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="funcStudy2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="arrayStudy.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="stringStudy.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="pointerStudy1.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="variable.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="arrayStudy2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="allocStudy.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="textRPG.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="gameFunc.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="gameStoryFunc.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="initial.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="stringStudy2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="structStudy.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="structStudyMovie.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="structTest1.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="fileStudy.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="bookMain.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="bookEnum.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="bookFile.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="bookNew.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="bookRent.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="bookReturn.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="bookFunc.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="bookData.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="game.h">
+      <Filter>소스 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="book.h">
+      <Filter>소스 파일</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
